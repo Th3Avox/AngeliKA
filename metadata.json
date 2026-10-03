@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Th3Avox"
+            }
+        ],
+        "Category": "Appearance",
+        "Description": "Pantalla de inicio animada de KAngel para KDE Plasma 6",
+        "Id": "com.th3avox.kangel",
+        "License": "GPL-3.0-or-later",
+        "Name": "KANGEL",
+        "Version": "1.0.0",
+        "Website": "https://github.com/Th3Avox/KANGEL"
+    },
+    "X-Plasma-APIVersion": "2"
+}
